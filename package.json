@@ -1,0 +1,20 @@
+{
+  "name": "desafio-logica-inicial",
+  "version": "1.0.0",
+  "description": "Trilha prática de fundamentos de lógica de programação com JavaScript.",
+  "private": false,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node 08_desafios_integradores/01_calculadora.js",
+    "exemplo": "node 01_variaveis/01_variaveis.js"
+  },
+  "keywords": [
+    "javascript",
+    "logica-de-programacao",
+    "nodejs",
+    "estudos",
+    "desafios"
+  ],
+  "author": "Filipe Gimenes de Morais",
+  "license": "MIT"
+}
