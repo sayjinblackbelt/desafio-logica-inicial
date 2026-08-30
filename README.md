@@ -86,4 +86,13 @@ Os desafios finais conectam vários conteúdos estudados e criam uma base para p
 
 ---
 
-👨‍💻 **Filipe Gimenes de Morais**
+👨‍💻 **Filipe G Morais**
+
+---
+
+## Author
+
+**Filipe G Morais**
+
+GitHub: https://github.com/sayjinblackbelt  
+Repository: https://github.com/sayjinblackbelt/desafio-logica-inicial
