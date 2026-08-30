@@ -1,5 +1,7 @@
 # 🧠 Desafio de Lógica Inicial
 
+🇧🇷 Português | [🇺🇸 English](README.en.md) | [🇪🇸 Español](README.es.md)
+
 > Uma trilha prática de fundamentos de programação com JavaScript.
 
 Este repositório começou como um dos meus primeiros projetos no GitHub e foi reorganizado para registrar uma jornada progressiva pelos principais conceitos de lógica de programação.
