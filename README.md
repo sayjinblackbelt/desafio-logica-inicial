@@ -1,25 +1,25 @@
 # 🧠 Desafio de Lógica Inicial
 
-> Registro da minha evolução prática nos fundamentos da lógica de programação.
+> Uma trilha prática de fundamentos de programação com JavaScript.
 
-Este repositório começou como um dos meus primeiros projetos no GitHub e está sendo reorganizado para documentar, de forma progressiva, exercícios e desafios fundamentais de programação.
+Este repositório começou como um dos meus primeiros projetos no GitHub e foi reorganizado para registrar uma jornada progressiva pelos principais conceitos de lógica de programação.
 
 ## 🎯 Objetivo
 
-Praticar e consolidar conceitos essenciais antes de avançar para projetos mais complexos.
+Praticar e consolidar fundamentos essenciais de programação antes de avançar para aplicações e projetos mais complexos.
 
-## 📚 Trilha de estudos
+## 📚 Trilha concluída
 
 | Etapa | Tema | Status |
 |---|---|---|
-| 01 | Variáveis e tipos de dados | ⏳ |
-| 02 | Operadores | ⏳ |
-| 03 | Estruturas condicionais | ⏳ |
-| 04 | Estruturas de repetição | ⏳ |
-| 05 | Funções | ⏳ |
-| 06 | Arrays e coleções | ⏳ |
-| 07 | Objetos | ⏳ |
-| 08 | Desafios integradores | ⏳ |
+| 01 | Variáveis e tipos de dados | ✅ |
+| 02 | Operadores | ✅ |
+| 03 | Estruturas condicionais | ✅ |
+| 04 | Estruturas de repetição | ✅ |
+| 05 | Funções | ✅ |
+| 06 | Arrays e coleções | ✅ |
+| 07 | Objetos | ✅ |
+| 08 | Desafios integradores | ✅ |
 
 ## 🗂️ Estrutura
 
@@ -33,24 +33,54 @@ desafio-logica-inicial/
 ├── 06_arrays/
 ├── 07_objetos/
 ├── 08_desafios_integradores/
+├── package.json
 └── README.md
 ```
 
-## 🚀 Próximo passo
+## ▶️ Como executar
 
-Iniciar a trilha com exercícios simples de variáveis, operadores e estruturas condicionais, evoluindo gradualmente para desafios que combinem vários conceitos.
+### Pré-requisito
+
+- Node.js instalado.
+
+### Executar um exercício
+
+No terminal, entre na pasta do projeto e execute:
+
+```bash
+node 01_variaveis/01_variaveis.js
+```
+
+Você também pode executar qualquer outro arquivo da trilha:
+
+```bash
+node 05_funcoes/04_desafio_calculadora.js
+node 08_desafios_integradores/03_jogo_adivinhacao.js
+```
+
+## 🧩 Conceitos praticados
+
+- Variáveis e tipos de dados
+- Operadores aritméticos, relacionais e lógicos
+- Estruturas condicionais
+- Estruturas de repetição
+- Funções e retorno de valores
+- Arrays e coleções
+- Objetos e métodos
+- Pequenos desafios integradores
 
 ## 🛠️ Tecnologias
 
-O foco inicial será em:
-
 - JavaScript
-- Lógica de programação
-- Git e GitHub
+- Node.js
+- Git
+- GitHub
 
 ## 📈 Evolução
 
-A proposta deste repositório é preservar o histórico de aprendizagem e registrar a evolução desde exercícios fundamentais até soluções mais estruturadas.
+O objetivo deste projeto é preservar o histórico de aprendizagem e demonstrar a evolução dos fundamentos de lógica até a combinação de conceitos em pequenos programas completos.
+
+Os desafios finais conectam vários conteúdos estudados e criam uma base para projetos mais avançados, como aplicações web, APIs e jogos.
 
 ---
 
